@@ -16,4 +16,5 @@ Contenido de la Competencia de Matemáticas - SENA para el Programa de ADSO
     1. [Números Reales y Aritmetica](https://github.com/aperezn298/MatematicasSENA/blob/main/03_MaterialApoyo/01NumerosRealesAritmetica.pdf)
     2. [Ecuaciones Primer Grado](https://github.com/aperezn298/MatematicasSENA/blob/main/03_MaterialApoyo/02EcuacionesPrimerGrado.pdf)
 4. Talleres
-    1. [Números Reales y Aritmetica](https://github.com/aperezn298/MatematicasSENA/blob/main/03_MaterialApoyo/01NumerosRealesAritmetica.pdf)
+    1. [Números Reales y Aritmetica](https://github.com/aperezn298/MatematicasSENA/blob/main/04_Talleres/Taller01NumRealesAritmetica.pdf)
+    2. [Ecuaciones Primer Grado](https://github.com/aperezn298/MatematicasSENA/blob/main/04_Talleres/Taller02EcuacionesPrimer.pdf)
