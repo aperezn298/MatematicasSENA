@@ -21,4 +21,7 @@ Contenido de la Competencia de Matemáticas - SENA para el Programa de ADSO
     2. [Ecuaciones Primer Grado](https://github.com/aperezn298/MatematicasSENA/blob/main/04_Talleres/Taller02EcuacionesPrimer.pdf)
     3. [Geometria](https://github.com/aperezn298/MatematicasSENA/blob/main/04_Talleres/Taller03Geometria.pdf)
     4. [Final Integrador](https://github.com/aperezn298/MatematicasSENA/blob/main/04_Talleres/Taller05FinalIntegrador.pdf)
-    
+5. Actividades de Refuerzo - Planes de Mejoramiento
+    1. [Aprendices](https://github.com/aperezn298/MatematicasSENA/blob/main/05_ActRefuerzos/01ActividadesRefuerzo.pdf)
+    2. [Geometria](https://github.com/aperezn298/MatematicasSENA/blob/main/05_ActRefuerzos/TallerR01Geometria.pdf)
+    3. [Estadistica](https://github.com/aperezn298/MatematicasSENA/blob/main/05_ActRefuerzos/TallerR01Estadistica.pdf)
